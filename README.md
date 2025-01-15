@@ -1,7 +1,6 @@
 Inspired by - `https://github.com/achiit/India_Info`
 Here is a `README.md` for your project:
 
-```markdown
 # PanchayatDirectory
 
 A web application to manage and access data from the India Local Government Directory. This project includes scripts to extract, process, and manage large CSV files, along with an API to serve the data.
@@ -15,7 +14,6 @@ To set up the project locally, follow these steps:
 git clone https://github.com/dhruvagrawal27/PanchayatDirectory.git
 cd PanchayatDirectory
 ```
-
 ### Set Up a Virtual Environment
 Create and activate a Python virtual environment to manage dependencies:
 ```bash
