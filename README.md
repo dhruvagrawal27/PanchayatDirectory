@@ -51,5 +51,3 @@ Due to the 100 MB upload limit on Supabase, the CSV file is compressed by removi
 ```bash
 python compress.py
 ```
-utions are welcome! Feel free to open issues or submit pull requests to improve the project.
-```
